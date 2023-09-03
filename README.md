@@ -20,29 +20,37 @@
 <br>
 
 ## Features
+<ul>
+  <li>Add Tasks: Easily add new tasks to your to-do list.</li>
+  <li>Edit Tasks: Double-click on a task to edit its text.</li>
+  <li>Complete Tasks: Mark tasks as complete by checking the checkbox.</li>
+  <li>Delete Tasks: Remove unwanted tasks with a single click.</li>
+  <li>Filter Tasks: Filter tasks by All, Active, or Completed.</li>
+  <li>Clear Completed: Quickly remove all completed tasks from your list.</li>
+  <li>Persistent Storage: Your tasks are automatically saved in your browser's local storage, ensuring your list is available even after closing the app.</li>
+</ul>
+<br>
+<br>
 
-Add Tasks: Easily add new tasks to your to-do list.
-Edit Tasks: Double-click on a task to edit its text.
-Complete Tasks: Mark tasks as complete by checking the checkbox.
-Delete Tasks: Remove unwanted tasks with a single click.
-Filter Tasks: Filter tasks by All, Active, or Completed.
-Clear Completed: Quickly remove all completed tasks from your list.
-Persistent Storage: Your tasks are automatically saved in your browser's local storage, ensuring your list is available even after closing the app.
-Development
+## Development
 If you'd like to contribute to the development of this To-Do List web app or make improvements, follow these steps:
+<ul>
+  <li>Fork the repository and clone it to your local machine.</li>
+  <li>Make your desired changes and enhancements.</li>
+  <li>Test your changes thoroughly to ensure they work as expected.</li>
+  <li>Create a pull request to submit your changes for review.</li>
+</ul>
+<br>
+<br>
 
-Fork the repository and clone it to your local machine.
+## License
+<p>This project is licensed under the MIT License. You're free to use, modify, and distribute the code for personal or commercial purposes. However, the project comes with no warranty, and the developers are not responsible for any data loss or discrepancies in task management.</p>
+<br>
+<br>
 
-Make your desired changes and enhancements.
-
-Test your changes thoroughly to ensure they work as expected.
-
-Create a pull request to submit your changes for review.
-
-License
-This project is licensed under the MIT License. You're free to use, modify, and distribute the code for personal or commercial purposes. However, the project comes with no warranty, and the developers are not responsible for any data loss or discrepancies in task management.
-
-Support
+## Support
 For any issues, questions, or suggestions, please feel free to open an issue on the project's GitHub repository.
+<br>
+<br>
 
-Get organized and start managing your tasks effectively with the To-Do List web app! 📝✅
+# Screenshots
