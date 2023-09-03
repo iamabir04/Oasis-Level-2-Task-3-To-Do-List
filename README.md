@@ -55,3 +55,4 @@ For any issues, questions, or suggestions, please feel free to open an issue on 
 
 # Screenshots
 ![1](https://github.com/iamabir04/Oasis-Level-2-Task-3-To-Do-List/assets/108453813/4705d9dd-4b8c-42f7-af6e-f234fe3ac40d)
+![2](https://github.com/iamabir04/Oasis-Level-2-Task-3-To-Do-List/assets/108453813/08ef63b3-9ffd-4bc5-8e39-86a6053cdd51)
