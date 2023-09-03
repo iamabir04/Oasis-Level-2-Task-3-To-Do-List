@@ -1,30 +1,26 @@
-To-Do List Web App Readme
-Welcome to the To-Do List web app! This web app is built using HTML, CSS, and JavaScript to help you organize your tasks and manage your to-do list efficiently.
+# To-Do List Web App Readme
+<p>Welcome to the To-Do List web app! <br><br> This web app is built using HTML, CSS, and JavaScript to help you organize your tasks and manage your to-do list efficiently.</p>
+<br>
+<br>
 
-To-Do List Screenshot
+## How to Use
+<ul>
+  <li>Clone the repository or download the source code to your local machine.</li>
+  <li>Open the index.html file in your web browser.</li>
+  <li>You'll find a clean and intuitive user interface.</li>
+  <li>To add a new task, simply type your task in the input field and press Enter or click the "Add" button.</li>
+  <li>To mark a task as complete, click the checkbox next to the task.</li>
+  <li>To edit a task, double-click on the task text, make your changes, and press Enter.</li>
+  <li>To delete a task, click the "Delete" button next to the task.</li>
+  <li>You can filter tasks by All, Active, or Completed using the buttons at the bottom.</li>
+  <li>To clear all completed tasks, click the "Clear Completed" button.</li>
+  <li>Your tasks are automatically saved in your browser's local storage, so you can come back later and find your list just as you left it.</li>
+</ul>
+<br>
+<br>
 
-How to Use
-Clone the repository or download the source code to your local machine.
+## Features
 
-Open the index.html file in your web browser.
-
-You'll find a clean and intuitive user interface.
-
-To add a new task, simply type your task in the input field and press Enter or click the "Add" button.
-
-To mark a task as complete, click the checkbox next to the task.
-
-To edit a task, double-click on the task text, make your changes, and press Enter.
-
-To delete a task, click the "Delete" button next to the task.
-
-You can filter tasks by All, Active, or Completed using the buttons at the bottom.
-
-To clear all completed tasks, click the "Clear Completed" button.
-
-Your tasks are automatically saved in your browser's local storage, so you can come back later and find your list just as you left it.
-
-Features
 Add Tasks: Easily add new tasks to your to-do list.
 Edit Tasks: Double-click on a task to edit its text.
 Complete Tasks: Mark tasks as complete by checking the checkbox.
