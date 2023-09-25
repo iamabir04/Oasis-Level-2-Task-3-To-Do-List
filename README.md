@@ -19,7 +19,6 @@
 <br>
 <br>
 
-
 ## Features
 <ul>
   <li>Add Tasks: Easily add new tasks to your to-do list.</li>
